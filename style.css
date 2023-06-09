@@ -1,0 +1,105 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+.main{
+    width: 100%;
+    height: 500px;
+}
+ul li a{
+list-style-type: none;
+color: black;
+}
+ul li a:hover{
+    color: black;
+}
+ul li{
+    text-decoration: none;
+}
+.nav ul{
+    list-style-type: none;
+}
+.myimg{
+    width: 220px;
+    height: 57px;
+}
+.navbar ul li a{
+    color: black;
+}
+.navbardiv{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar{
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+.navbar li{
+    display: flex;
+    margin-left: 10px;
+}
+.navbar li:first-child{
+    margin-left: 0;
+}
+.block{
+    width: 100%;
+    background-color: black;
+    height: 1px;
+}
+.bigp{
+    font-size: 100px;
+}
+.staycol{
+    width: 60%;
+}
+.littlep{
+    font-size: 30px;
+}
+.box1{
+    background-color: black;
+    width: 120px;
+    height: 40px;
+    border-radius: 20px;
+}
+.box2{
+    background-color: black;
+    width: 230px;
+    height: 45px;
+    border-radius: 25px;
+}
+.starth5{
+    color:white;
+}
+.numbers{
+    color: rgba(128, 128, 128, 0.405);
+    font-size: 40px;
+}
+.box3{
+    display: flex;
+}
+.information{
+    margin-top: 12px;
+    margin-left: 10px;
+}
+.date{
+    color: rgba(128, 128, 128, 0.629);
+}
+.block2{
+    width: 100%;
+    height: 1px;
+    background-color: gray;
+}
+.endpart{
+    margin-top: 40px;
+}
+.myimg2{
+    margin-top: 20px;
+    width: 240px;
+    height: 160px;
+}
+.endrow{
+    margin-bottom: 30px;
+}
+.date2{
+    font-size: 15px;
+    color: rgba(128, 128, 128, 0.766);
+
+}
