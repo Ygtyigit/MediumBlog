@@ -275,7 +275,7 @@ ul li{
 }
 .section-4{
     width: 100%;
-    height: 1000px;
+    height: auto;
     background-color: #34a245;
 }
 .getmorep{
@@ -297,6 +297,10 @@ ul li{
     border-radius: 30px;
     width: 300px;
     height: 40px;
+}
+.mybutton3:hover{
+    background-color: white;
+    color: black;
 }
 .box10{
     display: flex;
@@ -323,4 +327,81 @@ ul li{
 }
 .bottomborder{
     border-bottom: 1px solid black;
+}
+.section-5{
+    width: 100%;
+    background-color: #b6e5a4;
+    height: 450px;
+}
+.takemediump{
+    color: black;
+    font-family: 'Gt super text book', Georgia, sans-serif;
+    font-size: 90px;
+    letter-spacing: -3px;
+}
+.takemediumsp{
+    font-size: 18px;
+    font-family: 'Soehne web buch', sans-serif;
+}
+.phoneimg{
+    width: 334px;
+    height: 350px;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.downloadimg{
+    width: 170px;
+    height: 50px;
+}
+.block13{
+    background-color: black;
+    width: 100%;
+    height: .5px;
+}
+.learnmorep{
+    color: black;
+    font-size: 7.3vw;   
+    letter-spacing: -3.2px;
+    font-family: 'Gt super text book', Georgia, sans-serif;
+}
+.blogofp{
+    margin-top: 40px;
+    color: #000;
+    font-family: 'Gt super text book', Georgia, sans-serif;
+    font-size: 35px;
+
+}
+.blogofsp{
+    color: #000;
+    font-family: 'Gt super text book', Georgia, sans-serif;
+    font-size: 18px;
+}
+
+.endblocks{
+    margin-top: 100px;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: white;
+    color: #34a245;
+    border: 1px solid #34a245;
+    line-height: 100%;
+    padding: 0;
+}
+.endblocks:hover{
+    background-color: #34a245;
+    color: white;
+}
+.block14{
+    margin-top: 60px;
+    background-color: black;
+    width: 100%;
+    height: .5px;
+}
+.rightborder2{
+    border-left: 1px solid black;
+}
+.iframe2{
+    width: 400px;
+    height: 400px;
 }
