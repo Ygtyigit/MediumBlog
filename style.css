@@ -103,3 +103,50 @@ ul li{
     color: rgba(128, 128, 128, 0.766);
 
 }
+.endhead{
+    margin-left: 20px;
+    margin-top: 15px;
+    text-align: center;
+}
+.my2button{
+    margin-bottom: 20px;
+    width: 100px;
+    height: 45px;
+    border-radius: 20px;
+    border: none;
+}
+.box5{
+    margin-left: 100px;
+}
+.greenp a{
+    text-decoration: none;
+    color: green;
+}
+.greenp a:hover{
+    color: black;
+}
+.greenp{
+    margin-left: 15px;
+}
+.endul{
+    display: flex;
+}
+.endul li a{
+    text-decoration: none;
+    color: gray;
+}
+.endul li{
+    list-style-type: none;
+}
+.endul li a:hover{
+    color: gray;
+}
+.end2div{
+    display: flex;
+}
+.stickycol{
+    right: 30px;
+    top: 100px;
+    height: 200px;
+    position: sticky;
+}
