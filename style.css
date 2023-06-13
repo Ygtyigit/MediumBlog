@@ -542,3 +542,61 @@ ul li{
     font-size: 18px;
     color: #000;
 }
+/* WRİTE SAYFASI BAŞLANGIÇ */
+
+.writenav{
+    background-color: #f24d2e;
+}
+.section-11{
+    width: 100%;
+    height: 610px;
+    background-color: #f24d2e;
+
+}
+.whitep{
+    margin-top: 40px;
+    margin-bottom: 0px;
+    font-family: 'Soehne web dreiviertelfett', sans-serif;
+    color: #fff;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.35rem;
+    text-transform: uppercase;
+}
+.bigh2{
+    color: #000;
+    font-size: 7.3vw;
+    letter-spacing: -3.2px;
+    font-family: 'Gt super text book', Georgia, sans-serif;
+    font-weight: 400;
+}
+.whitep2{
+    color: #000;
+    font-size: 18px;
+    font-family: 'Gt super text book', Georgia, sans-serif;
+}
+.startwritingbutton{
+    margin-top: 30px;
+    width: 150px;
+    height: 40px;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    border: none;
+    font-size: 20px;
+}
+.blackborderrgiht{
+    border-right: 1px solid #000;
+}
+.section-12{
+    width: 100%;
+    height: 500px;
+    background-color: #000;
+}
+.bigp3{
+    color: #fff;
+    font-size: 6.5vw;
+    letter-spacing: -3.2px;
+    font-family: 'Gt super text book', Georgia, sans-serif;
+
+}
