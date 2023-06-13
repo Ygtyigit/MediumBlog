@@ -402,6 +402,32 @@ ul li{
     border-left: 1px solid black;
 }
 .iframe2{
-    width: 400px;
-    height: 400px;
+    width: 500px;
+    height: 500px;
+}
+.lastleftborder{
+    border-left: 1px solid black;
+}
+.littleimg{
+    margin-top: 20px;
+    width: 300px;
+    height: 70px;
+}
+.bottomborder2{
+    border-bottom: 1px solid #000;
+}
+.disimg{
+    display: flex;
+    justify-content: center;
+}
+.justfy{
+    display: flex;
+    justify-content: center;
+    margin-left: 20px;
+}
+.justfy li{
+    list-style-type: none;
+}
+.justfy li a{
+    font-size: 12px;
 }
