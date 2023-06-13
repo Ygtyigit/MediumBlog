@@ -31,6 +31,7 @@ ul li{
     position: sticky;
     top: 0;
     z-index: 9999;
+    border-bottom:1px solid black ;
 }
 .navbar li{
     display: flex;
@@ -55,7 +56,7 @@ ul li{
 }
 .box1{
     background-color: black;
-    width: 120px;
+    width: auto;
     height: 40px;
     border-radius: 20px;
 }
@@ -430,4 +431,114 @@ ul li{
 }
 .justfy li a{
     font-size: 12px;
+}
+/* MEMBERSHİP SAYFA BAŞLANGIÇ */
+.navbackground{
+    background-color: rgb(68, 121, 255);
+    border-bottom: 1px solid white;
+}
+.myimgmedium{
+    border-color: rgb(255, 255, 255);
+    width: 220px;
+    height: 57px;
+}
+.section-6{
+    width: 100%;
+    height: 450px;
+    background-color: #4479ff;
+    border-bottom: 1px solid white;
+}
+.mainheader3{
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Gt super text book', Georgia, sans-serif;
+    color: white;
+    text-align: center;
+}
+.mainheader3s{
+    color: white;
+    font-size: 20px;
+}
+.content{   
+    text-align: center;
+}
+.box16{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.somanybutton{
+    justify-content: center;
+    width: 300px;
+    height: 45px;
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 20px;
+    font-size: 18px;
+}
+.somanybutton:hover{
+    background-color: #4479ff;
+    color: white;
+    border: 1px solid white;
+    transition: .4s;
+}
+.section-7{
+    width: 100%;
+    height: 451px;
+    background-color: #4479ff;
+}
+.raytborder2{
+    border-right: 1px solid white;
+}
+.bottomborder2{
+    border-bottom: 1px solid white;
+}
+.whyp{
+    margin-top: 50px;
+    font-size: 35px;
+    font-family: 'Gt super text book', Georgia, sans-serif;
+    text-align: center;
+}
+.famousp3{
+    font-size: 20px;
+}
+.unlimitedbutton{
+    justify-content: center;
+    width: 300px;
+    height: 45px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    font-size: 18px;
+    justify-content: center;
+}
+.unlimitedbutton:hover{
+    background-color: gray;
+    transition: .5s;
+}
+.section-9{
+    border-top: 1px solid black;
+    background-color: #bcdfff;
+    width: 100%;
+    height: 500px;
+    border-bottom: 1px solid #000;
+}
+.section-10{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+}
+.takeyourp{
+    margin-top: 30px;
+    text-align: center;
+    color: #000;
+    font-size: 85px;
+    letter-spacing: -3px;
+    font-family: 'Gt super text book', Georgia, sans-serif;
+}
+.duzgunp{
+    font-size: 18px;
+    color: #000;
 }
