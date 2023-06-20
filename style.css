@@ -781,3 +781,11 @@ ul li{
     color: gray;
     font-size: 13px;
 }
+.inpagenav form img{ 
+    margin-right: 20px;
+}
+.profileimage{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+}
