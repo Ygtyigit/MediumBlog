@@ -789,3 +789,21 @@ ul li{
     height: 25px;
     border-radius: 50%;
 }
+.signinul{
+    display: flex;
+
+}
+.signinul li{
+    list-style: none;
+    padding-right: 20px;
+}
+.signinul li a{
+    text-decoration: none;
+    color: rgba(128, 128, 128, 0.851);
+}
+.staffp{
+    font-size: 18px;
+}
+.prof2p{
+    font-size: 13px;
+}
