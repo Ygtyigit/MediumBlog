@@ -807,3 +807,38 @@ ul li{
 .prof2p{
     font-size: 13px;
 }
+.box20{
+    padding: 20px;
+    width: 280px;
+    height: 200px;
+    background-color: rgb(196, 226, 255);
+    border-radius: 4px;
+}
+.signinp{
+    font-size: 15px;
+    color: #000;
+}
+.signinp2{
+    font-size: 12px;
+    color: #000;
+}
+.smallbutton{
+    width: 100px;
+    height: 30px;
+    background-color: #000;
+    color: white;
+    border-radius: 20px;
+    font-size: 13px;
+}
+.discoverp{
+    font-size: 14px;
+    text-align: center;
+}
+.connectbutton{
+    justify-content: center;
+    width: 225px;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 30px;
+    background-color: white;
+}
