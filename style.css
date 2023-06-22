@@ -842,3 +842,25 @@ ul li{
     border-radius: 30px;
     background-color: white;
 }
+.maybep a{
+    color: gray;
+}
+.maybep{
+    text-align: center;
+}
+.balloons{
+    margin: 10px;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgba(128, 128, 128, 0.225);
+}
+.followbutton{
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    background-color: white ;
+    border-radius: 20px;
+}
